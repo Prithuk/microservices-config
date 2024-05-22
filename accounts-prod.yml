@@ -1,0 +1,17 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to PROD accounts API"
+  contactDetails:
+    name: "Prithu Singh- Developer"
+    email: "prithukathet@gmail.com"
+
+  onCallSupport:
+    - +977036420247

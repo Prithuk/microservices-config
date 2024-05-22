@@ -1,0 +1,17 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans cards API"
+  contactDetails:
+    name: "Prithu Singh- Developer"
+    email: "prithukathet@gmail.com"
+
+  onCallSupport:
+    - +977036420247

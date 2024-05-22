@@ -1,0 +1,17 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to loans QA API"
+  contactDetails:
+    name: "Prithu Don- QA"
+    email: "thelion28.pk@gmail.com"
+
+  onCallSupport:
+    - +977134334324

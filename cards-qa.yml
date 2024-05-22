@@ -1,0 +1,18 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards related QA APIs "
+  contactDetails:
+    name: "Aashma Khadka - QA Lead"
+    email: "aashma.khadka@gmail.com"
+  onCallSupport:
+    - (310) 875-4367
+    - (201) 236-1267
