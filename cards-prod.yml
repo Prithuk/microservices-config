@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to  cards related PRODUCTIONNN APIs "
+  message: "Welcome to  cards related web hooks APIs "
   contactDetails:
     name: "Dinesh Kathet - Product Owner"
     email: "dines@gmail.com"
