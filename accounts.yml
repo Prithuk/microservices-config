@@ -26,7 +26,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to accounts"
+  message: "Welcome to docker accounts"
   contactDetails:
     name: "Prithu Kathet- Developer"
     email: "prithukathet.pk@gmail.com"
