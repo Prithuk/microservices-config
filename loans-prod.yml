@@ -8,7 +8,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to loans cards API"
+  message: "Welcome to loans cards PRODUCTIONNN API"
   contactDetails:
     name: "Prithu Singh- Developer"
     email: "prithukathet@gmail.com"
